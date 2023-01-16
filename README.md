@@ -4,11 +4,11 @@
 - 😄 Pronouns: ela/dela
 - 🚀 Atualmente, busco estágio na área de programação
  ##
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/naah16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naah16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naah16&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://naah16-naah16.vercel.app/api?username=naah16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://naah16-naah16.vercel.app/api/top-langs/?username=naah16&layout=compact&langs_count=7&theme=dracula"/>
+</div>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Naarah-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Naarah-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
