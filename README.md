@@ -1,18 +1,15 @@
-### Olá! Eu sou a Naarah Araujo
+### Olá! Eu sou a Naarah
  
-- 🌱 Graduanda do 8° período de Engenharia da Computação
-- 😄 Pronouns: ela/dela
-- 🚀 Atualmente, busco estágio na área de programação
+💻 Graduanda do 8° período de Engenharia da Computação
  ##
 <!--<div align="center">
   <a href="https://github.com/naah16">
   <img height="180em" src="https://naah16-naah16.vercel.app/api?username=naah16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://naah16-naah16.vercel.app/api/top-langs/?username=naah16&layout=compact&langs_count=7&theme=dracula"/>
 </div>-->
+ #### Minhas habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Naarah-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Naarah-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Naarah-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Naarah-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Naarah-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Naarah-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
@@ -30,11 +27,10 @@
 </div>
   
   ##
- 
+  #### Minhas redes sociais:
 <div> 
   <a href="https://instagram.com/naaraholiveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Naarah#6190" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:naaraholiveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/naarah-oliveira-695b04209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
