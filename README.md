@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Naarah
  
-💻 Graduanda do 8° período de Engenharia da Computação
+💻 Graduanda do 9° período de Engenharia da Computação
  ##
 <!--<div align="center">
   <a href="https://github.com/naah16">
